@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "torchok",
+	"version": "${version}",
+	"name": "TorchOK",
+	"description": "Torch auto-placement mod",
+	"authors": [
+		"Artem Schukin"
+	],
+	"contact": {
+		"homepage": "https://github.com/yhdgms1/TorchOK",
+		"sources": "https://github.com/yhdgms1/TorchOK"
+	},
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.yhdgms1.Torchok"
+		],
+		"client": [
+			"dev.yhdgms1.TorchokClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*",
+		"fabric-key-binding-api-v1": "*"
+	}
+}

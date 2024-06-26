@@ -1,0 +1,6 @@
+{
+  "category.torchok.main": "TorchOK",
+  "switch.torchok.autoplacement": "Switch Auto-placement",
+  "message.torchok.enabled": "Auto-placement was enabled",
+  "message.torchok.disabled": "Auto-placement was disabled"
+}

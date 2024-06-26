@@ -1,0 +1,6 @@
+{
+  "category.torchok.main": "TorchOK",
+  "switch.torchok.autoplacement": "Включить/выключить автоустановку",
+  "message.torchok.enabled": "Автоустановка была включена",
+  "message.torchok.disabled": "Автоустановка была выключена"
+}
