@@ -1,0 +1,14 @@
+{
+  "key.category.torchok.key-bind-category": "TorchOK",
+  "key.torchok.toggle-autoplacement": "Toggle Autoplacement",
+
+  "modmenu.nameTranslation.torchok": "TorchOK",
+  "modmenu.summaryTranslation.torchok": "Automatically places torches as you walk in dark areas",
+  "modmenu.descriptionTranslation.torchok": "Automatically places torches from your inventory when the light level drops below a configurable threshold",
+
+  "torchok.midnightconfig.title": "TorchOK",
+  "torchok.midnightconfig.enabled": "Enable Autoplacement",
+  "torchok.midnightconfig.enabled.tooltip": "When enabled, torches will be automatically placed from your inventory in dark areas",
+  "torchok.midnightconfig.threshold.tooltip": "The light level below which a torch will be placed automatically (0 = pitch black, 15 = full daylight)",
+  "torchok.midnightconfig.threshold": "Light Level Threshold"
+}

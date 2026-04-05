@@ -1,0 +1,14 @@
+{
+  "key.category.torchok.key-bind-category": "TorchOK",
+  "key.torchok.toggle-autoplacement": "Переключить автоустановку",
+
+  "modmenu.nameTranslation.torchok": "TorchOK",
+  "modmenu.summaryTranslation.torchok": "Автоматически расставляет факелы в тёмных местах",
+  "modmenu.descriptionTranslation.torchok": "Автоматически размещает факелы из инвентаря, когда уровень освещённости падает ниже заданного порога",
+
+  "torchok.midnightconfig.title": "TorchOK",
+  "torchok.midnightconfig.enabled": "Включить автоустановку",
+  "torchok.midnightconfig.enabled.tooltip": "Когда включено, факелы будут автоматически размещаться из инвентаря в тёмных местах",
+  "torchok.midnightconfig.threshold.tooltip": "Уровень освещённости, ниже которого будет автоматически размещён факел (0 = полная темнота, 15 = полный дневной свет)",
+  "torchok.midnightconfig.threshold": "Порог уровня освещённости"
+}

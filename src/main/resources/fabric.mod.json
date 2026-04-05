@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "torchok",
+	"version": "${version}",
+	"name": "TorchOK",
+	"description": "Automatically places torches in dark areas",
+	"authors": [
+		"yhdgms1"
+	],
+	"contact": {
+		"homepage": "https://github.com/yhdgms1/torchok",
+		"sources": "https://github.com/yhdgms1/torchok"
+	},
+	"license": "MIT",
+	"icon": "assets/torchok/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.yhdgms1.torchok.TorchOK"
+		],
+		"client": [
+			"dev.yhdgms1.torchok.client.TorchOKClient"
+		],
+		"modmenu": [
+			"dev.yhdgms1.torchok.client.ModMenuApiImpl"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.6",
+		"midnightlib": ">=1.9.2",
+		"minecraft": "~26.1.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
